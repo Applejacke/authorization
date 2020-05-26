@@ -1,0 +1,11 @@
+C:\Users\Pecda\source\repos\lyas_avtorizacya\lyas_avtorizacya\bin\Debug\netcoreapp3.1\lyas_avtorizacya.exe
+C:\Users\Pecda\source\repos\lyas_avtorizacya\lyas_avtorizacya\bin\Debug\netcoreapp3.1\lyas_avtorizacya.deps.json
+C:\Users\Pecda\source\repos\lyas_avtorizacya\lyas_avtorizacya\bin\Debug\netcoreapp3.1\lyas_avtorizacya.runtimeconfig.json
+C:\Users\Pecda\source\repos\lyas_avtorizacya\lyas_avtorizacya\bin\Debug\netcoreapp3.1\lyas_avtorizacya.runtimeconfig.dev.json
+C:\Users\Pecda\source\repos\lyas_avtorizacya\lyas_avtorizacya\bin\Debug\netcoreapp3.1\lyas_avtorizacya.dll
+C:\Users\Pecda\source\repos\lyas_avtorizacya\lyas_avtorizacya\bin\Debug\netcoreapp3.1\lyas_avtorizacya.pdb
+C:\Users\Pecda\source\repos\lyas_avtorizacya\lyas_avtorizacya\obj\Debug\netcoreapp3.1\lyas_avtorizacya.csprojAssemblyReference.cache
+C:\Users\Pecda\source\repos\lyas_avtorizacya\lyas_avtorizacya\obj\Debug\netcoreapp3.1\lyas_avtorizacya.AssemblyInfoInputs.cache
+C:\Users\Pecda\source\repos\lyas_avtorizacya\lyas_avtorizacya\obj\Debug\netcoreapp3.1\lyas_avtorizacya.AssemblyInfo.cs
+C:\Users\Pecda\source\repos\lyas_avtorizacya\lyas_avtorizacya\obj\Debug\netcoreapp3.1\lyas_avtorizacya.dll
+C:\Users\Pecda\source\repos\lyas_avtorizacya\lyas_avtorizacya\obj\Debug\netcoreapp3.1\lyas_avtorizacya.pdb
